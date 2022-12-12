@@ -1,0 +1,129 @@
+
+.App {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.Card{
+border: 1px solid black;
+display: flex;
+flex-direction: row;
+align-content : center;
+margin: auto;
+padding: 5px;
+margin-top: 2%;
+width: 500px;
+}
+
+.span{
+  font-weight: bold;
+}
+
+.Img{
+  height: 100%;
+  margin-top: 10px;
+  margin-left:10px;
+}
+
+
+.text{
+  text-align: left;
+  margin-left: 20px;
+  line-height: 10px;
+}
+.Greets {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    align-content : center;
+    margin: auto;
+    padding: 5px;
+    margin-top: 2%;
+    width: 500px;
+    }
+
+    .Random{
+        border: 1px solid black;
+        display: flex;
+        flex-direction: row;
+        align-content : center;
+        margin: auto;
+        padding: 5px;
+        margin-top: 2%;
+        width: 500px;
+        }
+
+    .boxes
+    {
+      border: 1px solid black;
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+      margin: auto;
+      padding: 5px;
+      margin-top: 2%;
+      width: 500px;
+      height: 70px;
+    }
+
+    .CC {
+
+      border: 1px solid black;
+      border-radius: 10%;
+      margin: 1% 1% ;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      width: 300px;
+      line-height: 5px;
+
+    }
+
+    .cardtype {
+      height: 15px;
+      
+    }
+
+    .Star-images{
+      height: 25px;
+      display: flex;
+      justify-content: center;
+    }
+
+    .Star-images img {
+      height: 5vh;
+    }
+
+    .ratingCard{
+      margin: 0;
+      border: 0;
+      font-size: 19px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin: 5px 250px 20px 250px;
+      background-color: rgb(74, 93, 175);
+      line-height: 30%;
+      border-radius: 4%;
+      color: white;
+      }
+
+      .imagesProfile{
+        height: 50px;
+        text-align: left;
+        border-radius: 50%;
+      }
+
+      .licensePlate{
+        display: flex;
+        justify-content: center;
+
+      }
+
+      .driverName{
+        display: flex;
+        justify-content: center;
+      }
+
+ 
